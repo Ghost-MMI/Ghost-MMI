@@ -1,6 +1,6 @@
 👻 Hello, I’m Ghost.<br>
-👀 I’m interested in ... Learn.<br>
-📫 How to reach me ... Secret.<br>
+💀 I’m interested in ... Learn.<br>
+💬 How to reach me ... Secret.<br>
 
 ```sh-session
 pip install brain.py
