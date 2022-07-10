@@ -11,5 +11,10 @@ pip install brain.py
 
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost-mmi&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="ghost-mmi" /> </p>
 
+<br><br><br>
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/89956771/178133160-794c4f9a-822b-4ac9-be7b-9848fe7bbeb4.svg)
+
+
+
+![170831467-bf7bc0ce-fc1b-4396-8856-2749ce47280e](https://user-images.githubusercontent.com/89956771/178134538-cf532b48-496b-4ce3-b46e-6df796bf7520.gif)
+
