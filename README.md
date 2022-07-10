@@ -17,5 +17,5 @@ pip --install --upgrade brain.py
 
 
 
-![170831467-bf7bc0ce-fc1b-4396-8856-2749ce47280e](https://user-images.githubusercontent.com/89956771/178134569-5be7b0c7-4087-48dd-9c02-1f80d705b42f.gif)
+<br>![170831467-bf7bc0ce-fc1b-4396-8856-2749ce47280e](https://user-images.githubusercontent.com/89956771/178134569-5be7b0c7-4087-48dd-9c02-1f80d705b42f.gif)
 
